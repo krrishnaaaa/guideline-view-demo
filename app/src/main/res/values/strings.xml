@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Guideline View</string>
+    <string name="text_item_title">Title of the list item to be displayed here</string>
+    <string name="text_availability_info">Availability info here</string>
 </resources>
